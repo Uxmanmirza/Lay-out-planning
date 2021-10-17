@@ -5,3 +5,29 @@
     display: flex;
     align-items: center;
 }
+#maincontent{
+    background-color: lightblue;
+    height: 400px;
+}
+#footor{
+    background-color: gray;
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+}
+#navigation{
+    background-color: lightcoral;
+    height: 400px;
+    width: 25%;
+    padding: 10px;
+}
+.navitem{
+    background-color: lightgoldenrodyellow;
+    height: 50px;
+    margin: 10px;
+    padding: 25px 0px 0px 20px;
+    font-size: 25px;
+
+}
